@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Qurratulain25/Qurratulain25/blob/main/banner.png" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Qurratulain</h1>
 <h3 align="center">Software Engineer | Researcher | ML & UI/UX Enthusiast</h3>
