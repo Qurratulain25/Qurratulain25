@@ -1,72 +1,77 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Qurratulain25/Qurratulain25/blob/main/banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Qurratulain</h1>
-<h3 align="center">💻 Software Engineer | UI/UX Expert | Python & ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Researcher | ML & UI/UX Enthusiast</h3>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎨 5+ years of experience in UI/UX and full-stack web development  
-- 🧪 1+ years of hands-on work in Python, Machine Learning, and Data Analytics  
-- 🎓 Master's Research in Anomaly Detection for Aviation Cyber-Physical Systems  
-- 📊 Passionate about building intelligent systems, automation, and user-centric tools  
-- 📚 Constantly learning, exploring open-source, and mentoring juniors
+🔬 I’m a passionate software engineer and researcher with:
 
----
-
-### 🔭 Current Focus
-
-- Python CLI tools & frameworks  
-- Machine Learning pipelines (ML & Anomaly Detection)  
-- Research in Cyber-Physical Systems (CPS) for aviation safety  
-- Data-driven UX design and analytics
+- ✅ 5+ years in UI/UX and full-stack web development  
+- ✅ 1+ years in Machine Learning, anomaly detection & research for safety-critical systems  
+- 🛰️ Team Lead at UAV-NCRA Lab, FAST Islamabad  
+- ✍️ Published author (IEEE Access, Springer), working on LLMs, BERT, and real-time CPS  
+- 🎓 Master's in Software Engineering, now preparing for a PhD in AI & ML
 
 ---
 
-### 🌟 Featured Public Projects
+## 💡 Tech Stack
 
-| Project                           | Description                                                                | Link |
-|-----------------------------------|----------------------------------------------------------------------------|------|
-| [Unit_Converter](https://github.com/Qurratulain25/Unit_Converter) | A modular Python CLI app to convert temperature, distance, weight, and time | ✅ CLI Tool |
-| [ms-thesis-anomaly-detection](https://github.com/Qurratulain25/ms-thesis-anomaly-detection) | Research repo for anomaly detection in aviation CPS                         | 🎓 Master's Research |
-| [Optitest--Tool](https://github.com/Qurratulain25/Optitest--Tool) | UI prototype and testing tool (HTML/CSS/JS) for system analysis             | 🌐 UI Project |
-| [SLR_ACPS_IEEE-Access](https://github.com/Qurratulain25/SLR_ACPS_IEEE-Access) | Systematic Literature Review on Aviation CPS systems                        | 📚 Research Paper |
-| [flight-system-C--](https://github.com/Qurratulain25/flight-system-C--) | Basic flight booking simulation using C++                                   | 💡 C++ Practice |
+### 🔧 Programming & Development  
+`Python` `C++` `R` `Linux` `Flask` `CesiumJS` `Git`
 
----
+### 🧠 Machine Learning  
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Seaborn` `OpenCV` `Keras` `YOLO` `EfficientNet`  
 
-### 💼 Tools & Technologies
+### 🌍 Tools & Collaboration  
+`Figma` `LaTeX` `Slack` `Jira` `Trello` `MS Office` `GitHub`  
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧠 AI & NLP  
+`BERT` `Transformers` `Hugging Face` `Recommender Systems` `Anomaly Detection`
 
 ---
 
-### 📈 GitHub Stats
+## 🔭 Featured Projects
+
+| Project                                    | Description                                                                    | Link |
+|--------------------------------------------|--------------------------------------------------------------------------------|------|
+| **Unit Converter**                         | Python CLI app for unit conversions + history                                 | [Repo](https://github.com/Qurratulain25/Unit_Converter) |
+| **ms-thesis-anomaly-detection**            | ML for aviation safety-critical anomaly detection (CPS)                       | [Repo](https://github.com/Qurratulain25/ms-thesis-anomaly-detection) |
+| **Optitest--Tool**                         | UI testing optimization tool (FAHP + ML)                                      | [Repo](https://github.com/Qurratulain25/Optitest--Tool) |
+| **SLR_ACPS_IEEE-Access**                   | Literature Review on Aviation CPS research                                    | [Repo](https://github.com/Qurratulain25/SLR_ACPS_IEEE-Access) |
+| **Flight System in C++**                   | Simulated flight booking/management system using core C++                     | [Repo](https://github.com/Qurratulain25/flight-system-C--) |
+
+---
+
+## 📚 Publications
+
+- **IEEE Access** – [Anomaly Detection for Aviation CPS](https://ieeexplore.ieee.org/document/10749801)
+- **Springer** – [API Recommendation for Mashup Composition](https://link.springer.com/article/10.1007/s13198-024-02568-5)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qurratulain25&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qurratulain25&layout=compact" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qurratulain25&show_icons=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qurratulain25&layout=compact" width="400">
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🤝 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/qurratulain-shabbir/)
-- 💼 FAST-NUCES, Islamabad  
-- 🕊️ [Facebook Profile](https://www.facebook.com/profile.php?id=100063264636098)  
-- 📫 GitHub Discussions or project issues
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qurratulain-shabbir/)
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:qurratulainshabbir9@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063264636098)
 
 ---
 
-_Thanks for visiting! Feel free to explore my projects or reach out to collaborate._
-
-<!---
+<!--
 Qurratulain25/Qurratulain25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
