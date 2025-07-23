@@ -32,18 +32,6 @@
 
 ---
 
-## 🔭 Featured Projects
-
-| Project                                    | Description                                                                    | Link |
-|--------------------------------------------|--------------------------------------------------------------------------------|------|
-| **Unit Converter**                         | Python CLI app for unit conversions + history                                 | [Repo](https://github.com/Qurratulain25/Unit_Converter) |
-| **ms-thesis-anomaly-detection**            | ML for aviation safety-critical anomaly detection (CPS)                       | [Repo](https://github.com/Qurratulain25/ms-thesis-anomaly-detection) |
-| **Optitest--Tool**                         | UI testing optimization tool (FAHP + ML)                                      | [Repo](https://github.com/Qurratulain25/Optitest--Tool) |
-| **SLR_ACPS_IEEE-Access**                   | Literature Review on Aviation CPS research                                    | [Repo](https://github.com/Qurratulain25/SLR_ACPS_IEEE-Access) |
-| **Flight System in C++**                   | Simulated flight booking/management system using core C++                     | [Repo](https://github.com/Qurratulain25/flight-system-C--) |
-
----
-
 ## 📚 Publications
 
 - **IEEE Access** – [Anomaly Detection for Aviation CPS](https://ieeexplore.ieee.org/document/10749801)
