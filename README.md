@@ -12,7 +12,7 @@
 - ✅ 1+ years in Machine Learning, anomaly detection & research for safety-critical systems  
 - 🛰️ Team Lead at UAV-NCRA Lab, FAST Islamabad  
 - ✍️ Published author (IEEE Access, Springer), working on LLMs, BERT, and real-time CPS  
-- 🎓 Master's in Software Engineering, now preparing for a PhD in AI & ML
+- 🎓 Master's in Software Engineering, now preparing for a PhD
 
 ---
 
